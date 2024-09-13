@@ -1,4 +1,4 @@
-# take-input
+# n mumber times kamran
 print n number of times 
 import java.util.Scanner;
 
